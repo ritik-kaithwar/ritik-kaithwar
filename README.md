@@ -24,12 +24,12 @@ I specialize in transforming complex datasets into actionable insights through *
 
 
 ## 📌 Featured Projects
-- 🏨 [Hospitality Business Insights (Power BI)](https://github.com/ritik-kaithwar/CS-atliq-hospitality-insights) — Identified cancellation-driven revenue leakage & high-performing hotel categories.
-- 🛒 [Superstore Sales Dashboard (Power BI)](https://github.com/ritik-kaithwar/DA-superstore-powerbi) — Dashboard with KPIs for sales, profit, discount, and returns.
+- 🏨 [Hospitality Business Insights (Power BI)](https://github.com/ritik-kaithwar/DA-atliq-hospitality-business-insights) — Identified cancellation-driven revenue leakage & high-performing hotel categories.
+- 🏢 [AtliQ Sales & Profit Insights (Power BI)](https://github.com/ritik-kaithwar/DA-atliq-strategic-growth-insights) — Analyzed ₹984M dataset, uncovering regional profit trends.
+- 🛒 [Superstore Sales Dashboard (Power BI)](https://github.com/ritik-kaithwar/DA-superstore-retail-powerbi-case-study ) — Dashboard with KPIs for sales, profit, discount, and returns.
 - 🎬 [MavenMovies Analysis (SQL & Excel)](https://github.com/ritik-kaithwar/DA-mavenmovies-sql-analytics) — Customer, rental, and revenue insights from movie rental dataset.
-- 🖥️ [Laptop Price Prediction (Machine Learning)](https://github.com/ritik-kaithwar/PY-laptop-price-prediction) — Regression models predicting laptop prices.
-- 🔐 [OTP Verification System (Python)](https://github.com/ritik-kaithwar/PY-otp-verification-system) — Simple OTP validation workflow.
-- 🏢 [AtliQ Sales & Profit Insights (Power BI)](https://github.com/ritik-kaithwar/CS-atliq-strategic-growth-insights) — Analyzed ₹984M dataset, uncovering regional profit trends.
+- 🖥️ [Laptop Price Prediction (Machine Learning)](https://github.com/ritik-kaithwar/ML-laptop-price-prediction) — Regression models predicting laptop prices.
+- 🔐 [OTP Verification System (Python)](https://github.com/ritik-kaithwar/PY-otp-verification-system-python) — Simple OTP validation workflow.
 
 
 ---
