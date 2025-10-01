@@ -22,8 +22,8 @@ I’ve worked on projects that span from **building interactive dashboards in Po
 - 🛒 [Superstore BI Dashboard](https://github.com/ritik-kaithwar/DA-superstore-retail-powerbi-case-study) — Transformed raw Excel data into a **star schema**; built dashboards for sales, customers, products, and delivery insights.  
 - 🎬 [MavenMovies SQL Analytics](https://github.com/ritik-kaithwar/DA-mavenmovies-sql-analytics) — SQL-based rental analytics with Excel dashboards; insights on peak rentals, top films, and staff performance.  
 - 💻 [Laptop Price Prediction (ML)](https://github.com/ritik-kaithwar/ML-laptop-price-prediction) — Gradient Boosting model (R² = 0.78) predicting laptop prices using specs (CPU, RAM, GPU, storage, weight).  
-- ☁️ [ETL Pipeline on AWS](https://github.com/ritik-kaithwar/DE-etl-pipeline-aws) — Built a serverless ETL workflow (S3, Lambda, Glue, Redshift) for daily log/ticket processing with schema validation.  
-- 📡 [Telecom Churn Analytics](https://github.com/ritik-kaithwar/DA-telecom-churn-prediction) — Built Power BI dashboards & Random Forest model to predict churn (27% rate, key drivers: Contract, Charges, Tenure).  
+- ☁️ [ETL Pipeline on AWS](https://github.com/ritik-kaithwar/DE-aws-etl-support-logs-tickets) — Built a serverless ETL workflow (S3, Lambda, Glue, Redshift) for daily log/ticket processing with schema validation.  
+- 📡 [Telecom Churn Analytics](https://github.com/ritik-kaithwar/DA-telecom-customer-churn-analytics-prediction) — Built Power BI dashboards & Random Forest model to predict churn (27% rate, key drivers: Contract, Charges, Tenure).  
 - ⚡ [Automation Projects](https://github.com/ritik-kaithwar?tab=repositories) — AI-powered SQL Agent (n8n + Gemini), Email-to-Postgres automation, Exchange Rate API workflow.  
 
 ---
